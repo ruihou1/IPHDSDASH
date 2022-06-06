@@ -154,7 +154,7 @@ dbc.Row(
                              [html.H4("Blood index"),
                               dbc.Form(children=[dbc.Row(
     [
-        dbc.Label("Fasting plasma glucose(FPG, mmol/L)", html_for="FPG", width=8),
+        dbc.Label("Fasting plasma glucose (FPG, mmol/L)", html_for="FPG", width=8),
         dbc.Col(
             dbc.Input(
                 type="number",
@@ -171,7 +171,7 @@ dbc.Row(
 
 dbc.Row(
     [
-        dbc.Label("Hemoglobin A1c(HbA1c, %)", html_for="HbA1c", width=8),
+        dbc.Label("Hemoglobin A1c (HbA1c, %)", html_for="HbA1c", width=8),
         dbc.Col(
             dbc.Input(
                 type="number",
@@ -189,7 +189,7 @@ dbc.Row(
 
 dbc.Row(
     [
-        dbc.Label("Alanine transaminase(ALT, U/L)", html_for="ALT", width=8),
+        dbc.Label("Alanine transaminase (ALT, U/L)", html_for="ALT", width=8),
         dbc.Col(
             dbc.Input(
                 type="number",
@@ -206,7 +206,7 @@ dbc.Row(
 
 dbc.Row(
     [
-        dbc.Label("Triglyceride(TG, mmol/L)", html_for="TG", width=8),
+        dbc.Label("Triglyceride (TG, mmol/L)", html_for="TG", width=8),
         dbc.Col(
             dbc.Input(
                 type="number",
@@ -223,7 +223,7 @@ dbc.Row(
 
 dbc.Row(
     [
-        dbc.Label("High-density lipoprotein cholesterol(HDL-C, mmol/L)", html_for="HDL", width=8),
+        dbc.Label("High-density lipoprotein cholesterol (HDL-C, mmol/L)", html_for="HDL", width=8),
         dbc.Col(
             dbc.Input(
                 type="number",
@@ -240,7 +240,7 @@ dbc.Row(
 
 dbc.Row(
     [
-        dbc.Label("Low-density lipoprotein cholesterol(LDL-C, mmol/L)", html_for="LDL", width=8),
+        dbc.Label("Low-density lipoprotein cholesterol (LDL-C, mmol/L)", html_for="LDL", width=8),
         dbc.Col(
             dbc.Input(
                 type="number",
