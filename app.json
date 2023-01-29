@@ -1,0 +1,11 @@
+﻿{
+    "name": "IPHDS",
+    "url": "https://app-iphds.herokuapp.com/",
+    "page": 1,
+    "isNonProfit": true,
+    "address": {
+        "street": "No. 10, Xitoutiao, Youan Men Wai",
+        "city": "Fengtai District, Beijing",
+        "country": "China"
+    }
+}
