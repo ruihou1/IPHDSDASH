@@ -323,7 +323,7 @@ dbc.Row(
 
                                   dbc.Row(
                                       [
-                                          dbc.Label("心率 （每秒心跳次数）", html_for="HR", width=7),
+                                          dbc.Label("心率 （每分心跳次数）", html_for="HR", width=7),
                                           dbc.Col(
                                               dbc.Input(
                                                   type="number",
